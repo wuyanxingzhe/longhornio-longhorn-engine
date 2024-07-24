@@ -1,0 +1,1 @@
+FROM longhornio/csi-snapshotter:v6.2.1
