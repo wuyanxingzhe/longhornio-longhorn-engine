@@ -1,0 +1,1 @@
+FROM longhornio/longhorn-share-manager:v1.5.3
