@@ -1,0 +1,1 @@
+FROM longhornio/csi-resizer:v1.7.0
